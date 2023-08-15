@@ -1,1 +1,7 @@
 /* your code */
+tr:nth-child(2n){
+	background-color:gray;
+}
+th{
+	background-color:lightblue;
+}
